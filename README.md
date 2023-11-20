@@ -2,7 +2,7 @@
 - 🤖2nd year computer science student at the University of Cape Town.
 -   Currently looking for internships
 - 👀 I’m interested in artificial intelligence, software development and machine learning.
-- 🌱 I’m currently learning mobile design and development
+- 🌱 I’m currently learning to build simple ml projects.
 - 📫 How to reach me:
 - email: shaylinvelen18@gmail.com
 
